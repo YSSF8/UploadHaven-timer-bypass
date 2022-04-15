@@ -4,7 +4,7 @@ This script bypasses the UploadHaven timer.
 
 How to install the script:
 <ul>
-  <li>Install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Tampermonkey</a> extnesion</li>
+  <li>Install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">Tampermonkey</a> extension</li>
   <li>Copy the script</li>
   <li>click on Tampermonkey extension, then click on <b>Create a new script...</b></li>
   <li>select all, and paste the copied script</li>
