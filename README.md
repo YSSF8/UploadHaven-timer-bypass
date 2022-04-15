@@ -9,5 +9,3 @@ How to install the script:
   <li>click on Tampermonkey extension, then click on <b>Create a new script...</b></li>
   <li>select all, and paste the copied script</li>
 </ul>
-
-Enjoy ;)
