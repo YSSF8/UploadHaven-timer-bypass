@@ -12,7 +12,7 @@
 
     seconds = 0;
 
-    //Original script ↓↓↓
+    //Original stolen script ↓↓↓
     /*
     let seconds = 0;
     let countdownTimer;
