@@ -1,6 +1,6 @@
 ## UploadHaven Timer Bypass
 This script bypasses the <a href="https://uploadhaven.com/">UploadHaven</a> timer.
-<p>It was very easy to create, the original script was found with <a href="https://www.charlesproxy.com/">Charles proxy</a> and edited by me.</p>
+<p>It was very easy to create, the original script was found with <a href="https://www.charlesproxy.com/">Charles proxy</a> and edited by <a href="https://github.com/YSSF8">me</a>.</p>
 
 How to install the script:
 <ul>
